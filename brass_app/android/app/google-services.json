@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984350137026",
+    "project_id": "brassapp-1612627526629",
+    "storage_bucket": "brassapp-1612627526629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984350137026:android:bdca8b25b5f53fceffb95b",
+        "android_client_info": {
+          "package_name": "com.example.brass_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984350137026-7d66j80i4ag6h239duu4h7vqra6gkkac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3vIJlr4dGOFggqwSw4NPFtswLPrs2DRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984350137026-7d66j80i4ag6h239duu4h7vqra6gkkac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
